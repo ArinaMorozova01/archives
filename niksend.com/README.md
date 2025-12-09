@@ -1,1 +1,39 @@
-zxcvb
+| mimes                                 |   files |       size |         share |
+| ------------------------------------- | ------- | ---------- | ------------- |
+| text/html                             |   14045 |  921369654 |  47.1956 |
+| video/mp4                             |      57 |  630697178 |  32.3064 |
+| image/jpeg                            |   1615  | 213714259  | 10.9472 |
+| text/javascript                       |     541  |  63722222  |  3.26406 |
+| application/zip                       |       2  |  44413863  |  2.27503 |
+| application/javascript                |     497  |  28831858  |  1.47686 |
+| text/css                              |     320  |  18750858  |  0.960481 |
+| image/png                             |     512  |  14829283  |  0.759605 |
+| font/woff                             |     116  |  3234528   | 0.165683 |
+| application/pdf                       |       4   |  2966758  |  0.151967 |
+| font/woff2                            |      89   |  1382899  |  0.0708367 |
+| application/atom+xml                  |      36   |  1284859  |  0.0658147 |
+| application/x-javascript              |      16   |  1212594  |  0.0621131 |
+| application/json                      |      22   |  1011940  |  0.0518349 |
+| image/webp                            |      32   |   751689  |  0.038504 |
+| text/calendar                         |       9   |   722407  |  0.0370041 |
+| font/ttf                              |       3   |   712671  |  0.0365054 |
+| application/rss+xml                   |      36   |   598172  |  0.0306404 |
+| image/x-icon                          |      28   |   521811  |  0.0267289 |
+| application/opensearchdescription+xml |     325   |   349876  |  0.0179218 |
+| image/svg+xml                         |      68   |   271984   | 0.0139319 |
+| image/gif                             |     105   |   191365  |  0.00980235 |
+| text/xml                              |       2   |   151974   | 0.00778461 |
+| text/plain                            |      47    |  121256   | 0.00621113 |
+| font/otf                              |       2   |    96522   | 0.00494418 |
+| application/dash+xml                  |      12    |   70065  |  0.00358896 |
+| application/octet-stream              |      10   |    66298  |  0.003396 |
+|                                       |      63   |    45348  |  0.00232288 |
+| application/vnd.ms-fontobject         |       2   |    41278  |  0.0021144 |
+| application/vnd.apple.mpegurl         |      13  |     40252 |   0.00206184 |
+| application/x-mpegURL                   |     9    |   19522  |  0.000999982 |
+| application/binary                      |    10    |   19447   | 0.00099614 |
+| application/xhtml+xml                   |     1    |    8639  |  0.000442518 |
+| application/manifest+json               |     1    |    5662  |  0.000290026 |
+| application/xml                         |     4    |    3931  |  0.000201359 |
+| image/vnd.microsoft.icon                |     2    |    2882  |  0.000147626 |
+| #total                                  | 18656 | 1952235804  100 |
