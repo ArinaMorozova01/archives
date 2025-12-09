@@ -40,7 +40,7 @@
 | #total                        |     1864 |  252902746 |  100
 
 
-Также как и в предыдущем случае собираем два файла с метаданными jpeg и png при помощи команды **metawarc metadata --filetypes png** и **metawarc metadata --filetypes jpeg**. Полученные файлы вложены в папку сайта (oshpice.ru_meta_jpeg.jsonl и oshpice.ru_meta_png.jsonl)
+Также как и в предыдущем случае собираем два файла с метаданными jpeg и png при помощи команды **metawarc metadata --filetypes png** и **metawarc metadata --filetypes jpeg**. Полученные файлы вложены в папку сайта (shpicdog.ru_meta_jpeg.jsonl и shpicdog.ru_meta_png.jsonl)
 
 ***Из интересного:*** мне было любопытно, почему в архиве данного сайта png и jpeg разделились практически 50 на 50. Я открыла файлы с метаданными и оказалось, что jpeg формат присутствовал в основном для превью статей, а png уже содержался в самих статьях. 
 
