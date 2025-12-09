@@ -21,6 +21,9 @@ http://niksend.com - питомник с отчетами с различных 
 2. Для воспроизведения warc-файлов с архивами сайтов использовался сервис [Replay Webpage](https://replayweb.page)
 3. Для анализа полученных архивов была использована утилита [metawarc](https://github.com/datacoon/metawarc)
 4. Для оценки архивируемости сайтов был использован сервис [ArchiveReady](https://archiveready.com)
+ 
+
+[мем](cjr.png)
 
 ## Контакты
 [Морозова Арина](https://github.com/ArinaMorozova01), НИУ ВШЭ, 2025
