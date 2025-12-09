@@ -23,7 +23,7 @@ http://niksend.com - питомник с отчетами с различных 
 4. Для оценки архивируемости сайтов был использован сервис [ArchiveReady](https://archiveready.com)
  
 
-[мем](cjr.png)
+![мем](cjr.png)
 
 ## Контакты
 [Морозова Арина](https://github.com/ArinaMorozova01), НИУ ВШЭ, 2025
