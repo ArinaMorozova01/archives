@@ -27,7 +27,6 @@
 | font/otf                              |       2   |    96522   | 0.00494418 |
 | application/dash+xml                  |      12    |   70065  |  0.00358896 |
 | application/octet-stream              |      10   |    66298  |  0.003396 |
-|                                       |      63   |    45348  |  0.00232288 |
 | application/vnd.ms-fontobject         |       2   |    41278  |  0.0021144 |
 | application/vnd.apple.mpegurl         |      13  |     40252 |   0.00206184 |
 | application/x-mpegURL                   |     9    |   19522  |  0.000999982 |
