@@ -1,1 +1,16 @@
-
+| mimes                         |   files  |    size   |        share |
+| ----------------------------- | ------- | ---------  | ------------- |
+| image/jpeg                     |    637  | 42437541  |  40.6556 |
+| image/png                      |     88 |  37179728  |  35.6186 |
+| text/html                       |   168  | 22734148   | 21.7796  |
+| image/webp                      |    13   |  613020  |   0.58728 |
+| application/x-javascript        |    15   |  513903  |   0.492325 |
+| text/css                        |     6   |  352158  |   0.337371 |
+| image/svg+xml                   |     2    | 190691  |   0.182684 |
+| image/gif                        |    3   |  170799  |   0.163627 |
+| application/vnd.ms-fontobject     |   1   |   59215  |   0.0567286 |
+| application/font-woff            |    1    |  59103  |   0.0566213 |
+| application/octet-stream        |     1    |  59030  |   0.0565514 |
+| text/xml                         |    9    |  12062   |  0.0115555 |
+| text/plain                       |    2    |    906   |  0.000867958 |
+| #total                           |  947 | 104382982  | 100 |
